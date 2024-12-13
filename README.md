@@ -1,0 +1,3 @@
+- Reading C++ books and Machine Learning
+- Watch videos on how to start Poultry farm
+- Learn how to manage a business
